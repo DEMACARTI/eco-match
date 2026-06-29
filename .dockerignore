@@ -1,0 +1,11 @@
+.git
+.idea
+.vscode
+target
+node_modules
+dist
+outputs
+model/outputs
+processed-image.jpg
+processed_image.jpg
+*.log
